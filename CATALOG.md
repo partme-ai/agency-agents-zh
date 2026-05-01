@@ -217,10 +217,12 @@
 | XR 沉浸式开发者 | `spatial-computing/xr-immersive-developer.md` |
 | XR 界面架构师 | `spatial-computing/xr-interface-architect.md` |
 
-## 🔬 专项部 (45)
+## 🔬 专项部 (47)
 
 | 中文名 | 文件路径 |
 |--------|----------|
+| 即梦专家 | `specialized/jimeng-expert.md` |
+| 小云雀专家 | `specialized/xyq-expert.md` |
 | 应付账款智能体 | `specialized/accounts-payable-agent.md` |
 | 身份信任架构师 | `specialized/agentic-identity-trust.md` |
 | 智能体编排者 | `specialized/agents-orchestrator.md` |
